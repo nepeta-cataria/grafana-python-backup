@@ -1,0 +1,4 @@
+dashboards/
+datasources/
+folders/
+.env*
