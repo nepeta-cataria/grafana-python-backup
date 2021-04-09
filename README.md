@@ -19,7 +19,7 @@ Optional environment variables:
 * `DIR_DATASOURCES` - Grafana Datasources directory. Will be created if not exist. (Default is `./datasources`)
 * `DIR_FOLDERS` - Grafana Folders directory. Will be created if not exist. (Default is `./folders`)
 * `DIR_DASHBOARDS` - Grafana Dashboards directory. Will be created if not exist. (Default is `./dashboards`)
-* LOG_LEVEL - Logging level. (Defauls is INFO)
+* `LOG_LEVEL` - Logging level. (Default is `INFO`)
 
 Running script:
 ```
